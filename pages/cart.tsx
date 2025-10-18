@@ -1,3 +1,5 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 import Head from "next/head";
 import { NextPage } from "next";
 
